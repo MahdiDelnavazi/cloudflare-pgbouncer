@@ -3,6 +3,7 @@
 simple application for test cloudflare pgbouncer and benchmarking
 
 pgbouncer : <p/>
+https://github.com/pgbouncer/pgbouncer
 ```
 Concurrency Level:      100
 Time taken for tests:   48.828 seconds
@@ -37,7 +38,8 @@ Percentage of the requests served within a certain time (ms)
  100%  14822 (longest request)
 ```
 <p/>
-cloudflare pgbouncer 
+cloudflare pgbouncer <p/>
+https://github.com/cloudflare/cf-pgbouncer
 
 ```
 Concurrency Level:      100
